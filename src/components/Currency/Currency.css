@@ -1,0 +1,13 @@
+.currency {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  .currency_item {
+    margin-right: 20px;
+  }
+  .currency_value {
+    margin: 0 5px;
+  }
+  .currency_delta {
+    font-size: 12px;
+  }

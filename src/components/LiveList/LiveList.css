@@ -1,0 +1,10 @@
+.live {
+    display: flex;
+    align-items: center;
+  }
+  .live_title {
+    margin: 0 10px;
+  }
+  .live_description {
+    font-size: 12px;
+  }
